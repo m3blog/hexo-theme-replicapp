@@ -2,8 +2,8 @@
 Here is Replica's README.Replica++'s readme is not ready!
 Github style replication for hexo theme. 
 
-Just in case you are working in the office but suddenly have some genius ideas. :two_hearts:  
-[Click here to view the demo site](//m3blog.github.io/)
+Just in case you are working in the office but suddenly have some genius ideas. :two_hearts: :twohearts:  
+[Click here to view the demo site](//m3blog.github.io/blog/)
 
 Issues & Contributions are welcome! :stuck_out_tongue:
 
