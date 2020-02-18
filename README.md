@@ -1,4 +1,4 @@
-# Replica++ [![LICENSE MIT](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](https://opensource.org/licenses/MIT)]
+# Replica++ [![LICENSE MIT](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Here is Replica's README.Replica++'s readme is not ready!
 Github style replication for hexo theme. 
 
