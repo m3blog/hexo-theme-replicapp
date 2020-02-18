@@ -1,8 +1,9 @@
-# Replica [![LICENSE MIT](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Replica++ [![LICENSE MIT](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](https://opensource.org/licenses/MIT)]
+Here is Replica's README.Replica++'s readme is not ready!
 Github style replication for hexo theme. 
 
 Just in case you are working in the office but suddenly have some genius ideas. :two_hearts:  
-[Click here to view the demo site](//sabrinaluo.github.io/tech)
+[Click here to view the demo site](//m3blog.github.io/)
 
 Issues & Contributions are welcome! :stuck_out_tongue:
 
@@ -16,11 +17,11 @@ Github UI in 2017, which uses the black navbar
 ## Setup
 #### Install
 ```
-git clone git@github.com:sabrinaluo/hexo-theme-replica.git themes/replica
+git clone git@github.com:m3blog/hexo-theme-replicapp.git themes/replica
 ```
 or
 ```
-git clone https://github.com/sabrinaluo/hexo-theme-replica.git themes/replica
+git clone https://github.com/m3blog/hexo-theme-replicapp.git themes/replica
 ```
 
 #### Configure
@@ -185,8 +186,5 @@ Copyright (c) 2015-2019 Hiitea <luohaojing@gmail.com>
 [^1]: https://cse.google.com/
 [^2]: https://opensource.org/licenses/MIT
 
-## Buy me coffee :yum:
-BTC: 19U6USzi7WaFmY3DTkgn67EzYpTqZPNwRG  
-![image](https://user-images.githubusercontent.com/5300359/30433338-cb7a9e48-9996-11e7-8e17-55f582b56e48.png)
-
-[![Coffee Fund](https://user-images.githubusercontent.com/5300359/53497706-baf13a00-3adf-11e9-8223-5aa1c63b8779.png)](https://user-images.githubusercontent.com/5300359/53497706-baf13a00-3adf-11e9-8223-5aa1c63b8779.png)
+## Buy me coffee 
+I don't wanna any coffee.If you really love this Repo,this is the best gift for me. :smile:
