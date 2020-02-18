@@ -5,12 +5,10 @@ var publishTimestamp = page.date.valueOf();
   <h3>
     <i class="fa fa-user-o"></i>
     <%= config.author || '' %>
-    &nbsp;|&nbsp;
-    <i class="fa fa-pencil-square-o"></i>
-    <%= wordcount(page.content) %> Words
+
     <span class="post-date float-right" title="{{moment(<%= publishTimestamp %>).format('MMM DD, YYYY, h:mm:ss A')}}">
       <i class="fa fa-pencil-square-o"></i>
-      fe645d {{moment(<%= publishTimestamp %>).fromNow()}}
+      {{moment(<%= publishTimestamp %>).fromNow()}}
     </span>
   </h3>
 

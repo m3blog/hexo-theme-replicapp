@@ -1,9 +1,9 @@
 # left-side user profile
-avatar: # by default https://octodex.github.com/images/baracktocat.jpg
+avatar: https://s2.ax1x.com/2020/02/18/3iqdzD.jpg # by default https://octodex.github.com/images/baracktocat.jpg
 location:
-email:
+email: momonorthy2008@outlook.com
 social:
-  github:
+  github: https://github.com/momonorthy
   weibo:
   linkedin:
 
@@ -24,3 +24,9 @@ gcs: # google custom search code
 # flagcounter
 flagcounter_href: # https://info.flagcounter.com/xxxx
 flagcounter_img_src: # https://s01.flagcounter.com/xxxx
+# star page
+#for example https://github.com/momoNorthy/momonorthy.github.com/issues/5
+star: https://github.com/momoNorthy/momonorthy.github.com/issues/5
+starcount: 1
+forklocation: https://github.com/m3blog/hexo-theme-replicapp/fork
+forkcount: 0

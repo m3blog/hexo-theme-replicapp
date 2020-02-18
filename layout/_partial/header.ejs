@@ -3,21 +3,21 @@
     <ul class="header-toolbar">
       <li class="clearfix">
         <a href="<%= url_for(theme.archive_dir) %>" class="header-toolbar-left"><i
-                  class="fa fa-file-text"></i> Posts </a>
+                  class="fa fa-file-text"></i> Watch </a>
         <a href="<%= url_for(theme.archive_dir) %>"
            class="header-toolbar-right"> <%= site.posts.length %> </a>
       </li>
       <li>
-        <a href="<%= url_for(theme.tag_dir) %>" class="header-toolbar-left"><i
-                  class="fa fa-tags"></i> Tags </a>
-        <a href="<%= url_for(theme.tag_dir) %>"
-           class="header-toolbar-right"> <%= site.tags.length %> </a>
+        <a href="<%= theme.star %>" class="header-toolbar-left"><i
+                  class="fa fa-tags"></i> Star </a>
+        <a href="<%= theme.star %>"
+           class="header-toolbar-right"> <%= theme.starcount %> </a>
       </li>
       <li>
-        <a href="<%= url_for(theme.category_dir) %>" class="header-toolbar-left"><i
-                  class="fa fa-folder-open"></i> Categories </a>
-        <a href="<%= url_for(theme.category_dir) %>"
-           class="header-toolbar-right"> <%= site.categories.length %> </a>
+        <a href="<%= theme.forklocation %>" class="header-toolbar-left"><i
+                  class="fa fa-folder-open"></i> Fork </a>
+        <a href=" <%= theme.forklocation %>"
+           class="header-toolbar-right"> <%= theme.forkcount %> </a>
       </li>
     </ul>
     <h2 class="header-title">

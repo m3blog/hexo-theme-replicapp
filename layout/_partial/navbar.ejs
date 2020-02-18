@@ -8,7 +8,7 @@ var avatar = config.avatar || theme.avatar || 'https://octodex.github.com/images
 
       <div class="navbar-search float-left desktop-only">
         <div class="navbar-search-form">
-          <label for="gsc-i-id1">This website</label>
+          <label for="gsc-i-id1">Search or jump to...</label>
           <div id="google-search">
             <gcse:search></gcse:search>
           </div>
@@ -20,10 +20,10 @@ var avatar = config.avatar || theme.avatar || 'https://octodex.github.com/images
         <li><a href="<%= url_for(theme.archive_dir) %>">Archives</a></li>
         <% } %>
         <% if(theme.menu.categories){ %>
-        <li><a href="<%= url_for(theme.category_dir) %>">Categories</a></li>
+        <li><a href="<%= url_for(theme.category_dir) %>">Category</a></li>
         <% } %>
         <% if(theme.menu.tags){ %>
-        <li><a href="<%= url_for(theme.tag_dir) %>">Tags</a></li>
+        <li><a href="<%= url_for(theme.tag_dir) %>">Tag</a></li>
         <% } %>
         <% if(theme.rss_dir){ %>
         <li class="desktop-only"><a href="<%= url_for(theme.rss_dir) %>" target="_blank">RSS</a></li>

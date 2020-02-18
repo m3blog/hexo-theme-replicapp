@@ -19,14 +19,9 @@ var recentPosts = page.posts.data.slice(0, 6);
               <a href="<%= url_for(post.path) %>"><%= post.title || 'Untitled' %></a>
             </h5>
             <p class="post-description text-ellipsis desktop-only">
-              <% var long = post.content.search("<!--end-->") %>
-              <% if(long === -1){ %>
-              <% long = 50 %>
-              <% } %>
-                  	      
               <%= post.content
                       .replace(/<[^>]*>/ig, ' ')
-                      .substr(0, long) %>
+                      .substr(0, 25) %>
             </p>
             <p class="post-info desktop-only">
               <span>
