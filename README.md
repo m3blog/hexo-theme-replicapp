@@ -192,7 +192,7 @@ I don't wanna any coffee.If you really love this Repo,this is the best gift for 
   <summary> How To Set The Preview Text</summary>
   <p>
     
-    ```
+    
     text<!--end-->textextextextextextex...................
-    ```
+    
     then the preview text will be "text"
