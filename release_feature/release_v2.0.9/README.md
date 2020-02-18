@@ -7,19 +7,19 @@
 
 > + Star(star the website feature)(config:see this folder's _config.md)
   
-  + Fork(Fork this Repo) (config:see this folder's _config.md)
+> + Fork(Fork this Repo) (config:see this folder's _config.md)
   
-  + More Like Github(modify the post to "repository",...")
+> + More Like Github(modify the post to "repository",...")
   
-  + set preview text terminator.(`<!--end-->`,see _config.md)
+> + set preview text terminator.(`<!--end-->`,see _config.md)
   
-  . Post
+> . Post
   
-  . Category
+> . Category
   
-  . Tag
+> . Tag
   
-  . RSS
+> . RSS
   
   Not So Good: Star Count/Fork Count Must set by yourself.(see: _config.md)
   
