@@ -188,3 +188,10 @@ Copyright (c) 2015-2019 Hiitea <luohaojing@gmail.com>
 
 ## Buy me coffee 
 I don't wanna any coffee.If you really love this Repo,this is the best gift for me. :smile:
+<details>
+  <summary> How To Set The Preview Text</summary>
+  <p>
+    ```
+    text<!--end-->textextextextextextex...................
+    ```
+    then the preview text will be "text"
